@@ -7,7 +7,7 @@ setup(
   author = 'John Liao',
   author_email = 'john@johnliao.org',
   url = 'https://github.com/johnsliao/noun_pls', # use the URL to the github repo
-  #download_url = 'https://github.com/johnsliao/pymbta/tarball/1.1',
+  download_url = 'https://github.com/johnsliao/noun_pls/tarball/1.0',
   keywords = ['noun', 'noun_pls'], # arbitrary keywords
   classifiers = [],
   install_requires=[]
